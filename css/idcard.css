@@ -1,0 +1,30 @@
+.front {
+	background-image: url("../image/front.jpg") !important;
+	background-size: contain !important;
+   background-repeat: no-repeat !important;
+	width: 32% !important;
+	height: 230px !important;
+	margin-bottom: 10px !important;
+
+}
+
+.front h3 {
+	color: blue;
+	font-size: 10px;
+	
+}
+
+.back {
+	background: url("../image/front.jpg");
+	width: 32%;
+	height: 230px;
+	background-size: contain;
+   background-repeat: no-repeat;
+	width: 32%;
+	height: 230px;
+	
+}
+
+.back h3 {
+	color: blue;
+}
